@@ -1,0 +1,2 @@
+Contact{firstName='Surabhi', lastName='Bhagat', address='kothrud', city='pune', state='maharashtra', zip=411038, phoneNumber=9854123658, email='sur12@gmail.com'}
+Contact{firstName='Sakshi', lastName='Shinde', address='warje', city='pune', state='maharashtra', zip=411036, phoneNumber=8569412365, email='sakshi@gmail.com'}
